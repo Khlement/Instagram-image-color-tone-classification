@@ -11,8 +11,8 @@
 Datasets were downloaded from flickr. classified as the following:
 *	Warm tone
 *	Cool tone
-*	Low-key tone
-*	High-key tone 
+*	High-key tone
+*	Low-key tone 
 
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/1ea36546-3ecf-4404-970c-e7614e2132b2" alt="warm tone image" width="200" height="200">
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/b9463d9d-3ce0-46d0-8919-2beb8176a1c6" alt="warm tone image" width="200" height="200">
