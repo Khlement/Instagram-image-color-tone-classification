@@ -14,33 +14,10 @@ Datasets were downloaded from flickr. classified as the following:
 *	Low-key tone
 *	High-key tone 
 
-## Data Cleaning
-After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
-
-*	Parsed numeric data out of salary 
-*	Made columns for employer provided salary and hourly wages 
-*	Removed rows without salary 
-*	Parsed rating out of company text 
-*	Made a new column for company state 
-*	Added a column for if the job was at the company’s headquarters 
-*	Transformed founded date into age of company 
-*	Made columns for if different skills were listed in the job description:
-    * Python  
-    * R  
-    * Excel  
-    * AWS  
-    * Spark 
-*	Column for simplified job title and Seniority 
-*	Column for description length 
-
-## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
-
-![alt text](https://github.com/Khlement/Instagram_image_color_tone_classification/blob/master/warm_tone.PNG "warm color tone image")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
-
 ![warm_tone](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/1ea36546-3ecf-4404-970c-e7614e2132b2)
+![cool_tone](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/b9463d9d-3ce0-46d0-8919-2beb8176a1c6)
+![high_key](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/751963a4-a00d-4f47-96fc-c0c07ccc7ff4)
+![low_key](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/73c12259-7196-4f45-aa97-782a7c90f042)
 
 ## Model Building 
 
