@@ -21,14 +21,8 @@ Datasets were downloaded from flickr. classified as the following:
 
 ## CNN Model Architecture
 
-First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
+Implementation of the AlexNet architecture
 
-I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
-
-I tried three different models:
-*	**Multiple Linear Regression** – Baseline for the model
-*	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
-*	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
