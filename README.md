@@ -14,15 +14,10 @@ Datasets were downloaded from flickr. classified as the following:
 *	Low-key tone
 *	High-key tone 
 
-![warm_tone](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/1ea36546-3ecf-4404-970c-e7614e2132b2)
-![cool_tone](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/b9463d9d-3ce0-46d0-8919-2beb8176a1c6)
-![high_key](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/751963a4-a00d-4f47-96fc-c0c07ccc7ff4)
-![low_key](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/73c12259-7196-4f45-aa97-782a7c90f042)
-
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/1ea36546-3ecf-4404-970c-e7614e2132b2" alt="warm tone image" width="250" height="250">
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/b9463d9d-3ce0-46d0-8919-2beb8176a1c6" alt="warm tone image" width="250" height="250">
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/751963a4-a00d-4f47-96fc-c0c07ccc7ff4" alt="warm tone image" width="250" height="250">
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/73c12259-7196-4f45-aa97-782a7c90f042" width="250" height="250">
+<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/1ea36546-3ecf-4404-970c-e7614e2132b2" alt="warm tone image" width="200" height="200">
+<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/b9463d9d-3ce0-46d0-8919-2beb8176a1c6" alt="warm tone image" width="200" height="200">
+<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/751963a4-a00d-4f47-96fc-c0c07ccc7ff4" alt="warm tone image" width="200" height="200">
+<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/73c12259-7196-4f45-aa97-782a7c90f042" width="200" height="200">
 
 ## Model Building 
 
