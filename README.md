@@ -35,7 +35,11 @@ The Random Forest model far outperformed the other approaches on the test and va
 *	**Prediction Accuracy** = 0.92
 *	**F1-Score** = 0.92
 *	**AUC-score** = 0.99
+![loss_epoch](https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/97aca562-b4d3-4d35-a739-bdf5adc75fe9)
+
+
 
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/f4ec7b7d-555b-48b4-884a-d0bc5cbbd012" width="200" height="200">
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/a16c4e48-f46e-4418-a105-635ad266097c" width="200" height="200">
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/33119159-9402-487a-a9dc-b4d89551bc02" width="200" height="200"
+<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/97aca562-b4d3-4d35-a739-bdf5adc75fe9" width="200" height="200"
+
