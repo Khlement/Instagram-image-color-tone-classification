@@ -19,7 +19,7 @@ Datasets were downloaded from flickr. classified as the following:
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/751963a4-a00d-4f47-96fc-c0c07ccc7ff4" alt="warm tone image" width="200" height="200">
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/73c12259-7196-4f45-aa97-782a7c90f042" width="200" height="200">
 
-## Model Building 
+## CNN Model Architecture
 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
 
