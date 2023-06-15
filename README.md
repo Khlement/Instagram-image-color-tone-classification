@@ -20,7 +20,7 @@ Datasets were downloaded from flickr. classified as the following:
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/73c12259-7196-4f45-aa97-782a7c90f042" width="200" height="200">
 
 ## CNN Model Architecture
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/42ce56e3-0946-4069-bb1f-2e842ed9945a" alt="model architecture" width="600" height="350">
+<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/42ce56e3-0946-4069-bb1f-2e842ed9945a" alt="model architecture" width="950" height="350">
 
 
 
