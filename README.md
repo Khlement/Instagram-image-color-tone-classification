@@ -24,9 +24,10 @@ Implementation of the AlexNet architecture
 
 <img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/42ce56e3-0946-4069-bb1f-2e842ed9945a" alt="model architecture" width="950" height="350">
 
-
-
-
+## Model Training 
+* Transfer Learning --> AlexNet pre-trained model and its learned parameters
+* learned parameter values --> initial values and then fine-tuned to train the model
+* learning rate set at **0.0001**. 
 
 
 ## Model performance
